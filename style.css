@@ -1,0 +1,33 @@
+
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+
+header {
+  height: 90px;
+  padding-top: 30px;
+  padding-bottom: 20px
+}
+
+
+p {
+  text-indent: 50px;
+  font-family: times;
+  font-size: 16px;
+}
+form {
+  float: left;
+  background-image: url(image/list-bg.png);
+  padding-left: 100px;
+  padding-right: 60px;
+}
+#left{
+  float: left;
+}
+#right{
+  margin-left: 500px
+}
+.Vanessa{
+  float:left;
+}
